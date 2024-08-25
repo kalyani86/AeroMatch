@@ -8,7 +8,6 @@ This project is a Drone Flying Pilot Locator platform that displays pilots on a 
 
 ## Video
 
-[Project Demo Video](C:\Users\Kalyani Patil\Videos\Screen Recordings)
 
 ## Tech Stack
 
