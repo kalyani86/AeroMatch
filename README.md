@@ -1,6 +1,6 @@
 # Drone Pilot Locator
 
-This project is a Drone Flying Pilot Locator platform that displays pilots on a map based on their location and work experience. The platform also includes features such as live tracking of the admin's location, a pilot-matching system based on experience and distance, and advanced filtering options. The application is built using React, Node.js, Express, MongoDB, and Leaflet for map visualization.
+This project is a Drone Flying Pilot Locator platform that displays pilots on a map based on their location and work experience. The platform also includes features such as live tracking of the admin's location, a pilot-matching system based on experience and distance. The application is built using React, Node.js, Express, MongoDB, and Leaflet for map visualization.
 
 ## Table of Contents
 1. [Demo Video](#video)
