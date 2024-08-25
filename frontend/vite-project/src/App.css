@@ -1,0 +1,23 @@
+.leaflet-container
+{
+    height: 600px;
+    width: 800px;
+    margin: auto;
+}
+
+.leaflet-popup-content
+{
+    height: 100px;
+    font-size:15px
+}
+
+.leaflet-marker-icon
+{
+    height: 100px;
+}
+
+.custom-admin-wrapper .leaflet-popup-content-wrapper
+{
+    height: 30px;
+    font-size: 10px;
+}
