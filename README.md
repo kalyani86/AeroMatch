@@ -7,7 +7,7 @@ This project is a Drone Flying Pilot Locator platform that displays pilots on a 
 2. [Tech Stack](#tech-stack)
 
 ## Video
-
+You can watch the project demo [here](https://youtu.be/AfnSKtUC3GY).
 
 ## Tech Stack
 
